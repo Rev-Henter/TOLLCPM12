@@ -1,7 +1,7 @@
-# 📦 INSTALLATION COMMANDS
+# INSTALLATION COMMANDS
 
 ━━━━━━━━━━━━━━━━━━━━  
-📱 ANDROID (TERMUX)  
+ANDROID (TERMUX)  
 ━━━━━━━━━━━━━━━━━━━━  
 
 ~~~bash
@@ -20,7 +20,7 @@ python main.py
 ---
 
 ━━━━━━━━━━━━━━━━━━━━  
-🍎 iOS (a-Shell / iSH)  
+iOS (a-Shell / iSH)  
 ━━━━━━━━━━━━━━━━━━━━  
 
 ~~~bash
@@ -35,20 +35,20 @@ python3 main.py
 
 ---
 
-##  Requirements
+## Requirements
 
-- Python 3.x
-- Git
-- Internet connection
-
----
-
-##  Autor
-
-Desenvolvido por **RevHenter**
+- Python 3.x  
+- Git  
+- Internet connection  
 
 ---
 
-##  Status
+## Author
 
-✅️ Atualiza
+Developed by **RevHenter**
+
+---
+
+## Status
+
+Updated

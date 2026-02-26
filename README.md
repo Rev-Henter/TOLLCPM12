@@ -6,12 +6,6 @@ Ferramenta para <b>Car Parking Multiplayer 1 e 2</b>
 
 ---
 
-<p align="center">
-  <img src="logo.jpg" width="350">
-</p>
-
----
-
 # 📦 INSTALLATION COMMANDS
 
 ━━━━━━━━━━━━━━━━━━━━  

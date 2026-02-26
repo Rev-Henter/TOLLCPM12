@@ -1,11 +1,3 @@
-<h1 align="center">🚘 CPM TOOL</h1>
-
-<p align="center">
-Ferramenta para <b>Car Parking Multiplayer 1 e 2</b>
-</p>
-
----
-
 # 📦 INSTALLATION COMMANDS
 
 ━━━━━━━━━━━━━━━━━━━━  
@@ -43,7 +35,7 @@ python3 main.py
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - Python 3.x
 - Git
@@ -51,12 +43,12 @@ python3 main.py
 
 ---
 
-## 👑 Autor
+##  Autor
 
 Desenvolvido por **RevHenter**
 
 ---
 
-## ⭐ Status
+##  Status
 
 ✅️ Atualiza

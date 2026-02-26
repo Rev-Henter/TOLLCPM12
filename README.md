@@ -1,25 +1,14 @@
-<h1 align="center">🚘 CPM VIP TOOL</h1>
+<h1 align="center">🚘 CPM TOOL</h1>
 
 <p align="center">
-Ferramenta exclusiva para <b>Car Parking Multiplayer</b>
+Ferramenta para <b>Car Parking Multiplayer 1 e 2</b>
 </p>
 
 ---
-
-## 📸 Preview
 
 <p align="center">
   <img src="logo.jpg" width="350">
 </p>
-
----
-
-## 🔥 Recursos
-
-✔️ Sistema VIP  
-✔️ Automático  
-✔️ Fácil de usar  
-✔️ Atualizações frequentes  
 
 ---
 
